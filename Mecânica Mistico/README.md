@@ -1,5 +1,5 @@
 # Landing page - Oficina-Mecânica
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 # Sobre o projeto
 
 Este projeto foi criado com o intuito de aplicar todos os conhecimentos que adquiri até o momento durante o curso de Formação em Front-end do **Hora de Codar**. Utilizei como base um negócio familiar para a criação do projeto. O objetivo é que o projeto evolua e inclua novas tecnologias conforme minha evolução durante o curso.
