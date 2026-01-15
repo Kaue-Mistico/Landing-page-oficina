@@ -26,7 +26,7 @@ O objetivo deste projeto é aplicar, na prática, os conhecimentos adquiridos em
 ## Como Executar o Projeto
 1. Faça o download ou clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/Kaue-Mistico/Landing-page-oficina.git
 
 2. Abra o arquivo index.html em qualquer navegador web.
 
