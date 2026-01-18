@@ -30,6 +30,4 @@ Acesse o link do github pages para visualizar o projeto completo:
 https://kaue-mistico.github.io/Landing-page-oficina/
    
 
-## Layout do web
-
 
